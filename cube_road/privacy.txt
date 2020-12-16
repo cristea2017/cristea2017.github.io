@@ -1,0 +1,55 @@
+Privacy Policy
+Last updated: December, 16th 2020
+
+Your privacy is important to us. It is Furtuna Daniel's policy to respect your privacy regarding any information we may collect from you through our products.
+
+Furtuna Daniel Mobile Applications
+- We only ask for personal information when we truly need it to provide a product to you.
+- We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.
+- We will not use or share your information with anyone except as described in this Privacy Policy.
+
+
+Personal Information
+
+- When you use our products, we collect your IP address and technical information (Device Model, Operating System) related to your device (user agent). This information is used to improve server side.
+- On creating account in our products, we collect your login credentials such as email address, nickname and password. With an account, you will get access to new features, such as uploading data to the server, evaluating the work of other users.
+- Some features require permission to access the Gallery. This will allow you to loading textures (thumbnails/avatars/icons).
+
+
+- Our products does use third party services that may collect information used to identify you.
+
+Link to privacy policy of third party service providers used by our products:
+
+Google Play Services
+Unity Technologies
+
+Product Providers
+
+We may employ third-party companies and individuals due to the following reasons:
+
+To facilitate our products
+To assist us in analyzing how our products is used
+We want to inform users of our applications that these third parties have access to your Personal Information.
+The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+
+Security
+
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+
+
+Links to Other Sites
+
+Our products may contain links to other sites.
+Links added by us can be:
+
+Privacy Policy
+
+If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, We strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+Children’s Privacy
+
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that I will be able to do necessary actions.
+
+Contact Us
+If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact us by email: furtunadan549@yandex.ru
