@@ -9,5 +9,5 @@
 	  
   "ENABLE_ADS": "true",
   "ENABLE_RATE": "true",
-  "SHOW_ATT_AGGRESSIVE": "false"
+  "SHOW_ATT_AGGRESSIVE": "true"
 }
