@@ -7,7 +7,7 @@
 	  
   "AD_COUNTER": "3",
 	  
-  "ENABLE_ADS": "false",
+  "ENABLE_ADS": "true",
   "ENABLE_RATE": "true",
   "SHOW_ATT_AGGRESSIVE": "false"
 }
